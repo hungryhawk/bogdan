@@ -1,3 +1,3 @@
 # bogdan
 
-i just changed this file
+i just changed this file from local repository
